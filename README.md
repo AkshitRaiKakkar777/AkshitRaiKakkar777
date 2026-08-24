@@ -1,4 +1,4 @@
-## 🚀 Backend Engineer | Java Developer | Spring Boot Developer | 2nd Year Student
+## 🚀 Sofware Engineer | JAVA Backend Developer | Tech Lead
 
 ## 👨‍💻 About Me
 
