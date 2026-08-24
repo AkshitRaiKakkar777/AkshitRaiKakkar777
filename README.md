@@ -1,4 +1,4 @@
-## 🚀 Sofware Engineer | JAVA Backend Developer | Tech Lead
+## 🚀 Sofware Engineer | Java Backend Developer | Tech Lead
 
 ## 👨‍💻 About Me
 
