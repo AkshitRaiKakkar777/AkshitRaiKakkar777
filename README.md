@@ -22,6 +22,18 @@
 
 ---
 
+### 🏆 Achievements
+
+- 🥇 1st Place, Techfrontier 2k25, IIIT Delhi 
+- 🥇 1st Place, Hackastra 2k25, NIT Durgapur
+- 🥇 1st Place, Mukand Utsav 2K26
+- 🥇 1st Place, Ideation 2K26
+- 🚀 Finalist, ByteVerse Hackathon
+- 🚀 E-Summit'25 IIT Rookie
+- 🎓 Campus Ambassador, IIT Mandi (Incubator Centre)
+
+---
+
 ### 🎯 Primary Focus Areas
 
 - Backend Engineering
@@ -33,18 +45,6 @@
 - Database Engineering (PostgreSQL, MySQL)
 - Docker & Containerization
 - Data Structures & Algorithms
-
----
-
-### 🏆 Achievements
-
-- 🥇 1st Place, Techfrontier 2k25, IIIT Delhi 
-- 🥇 1st Place, Hackastra 2k25, NIT Durgapur
-- 🥇 1st Place, Mukand Utsav 2K26
-- 🥇 1st Place, Ideation 2K26
-- 🚀 Finalist, ByteVerse Hackathon
-- 🚀 E-Summit'25 IIT Rookie
-- 🎓 Campus Ambassador, IIT Mandi (Incubator Centre)
 
 ---
 
