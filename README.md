@@ -48,22 +48,6 @@
 
 ---
 
-### 💡 What I Build
-
-- Distributed & Multi-Tenant Backend Systems
-- Secure Authentication & Authorization Systems (JWT, OAuth2, RBAC)
-- Payment-Integrated Backend Systems (Cashfree)
-- RESTful APIs with Full API Documentation (Swagger/OpenAPI)
-- Load-Tested, Production-Ready Backends
-
----
-
-### 🔍 Keywords
-
-`Java Developer` • `Backend Engineer` • `Spring Boot Developer` • `REST API Developer` • `System Design` • `Distributed Systems` • `Multi-Tenancy` • `Docker` • `Redis` • `PostgreSQL` • `MySQL` • `Authentication` • `JWT` • `OAuth2` • `RBAC` • `Rate Limiting` • `Backend Development` • `API Development` • `Linux` • `Data Structures` • `Algorithms` • `Open Source` • `Competitive Programming`
-
----
-
 # 💻 Tech Stack & Skills
 
 <p align="center">
@@ -117,6 +101,22 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=F7A033&center=true&vCenter=true&width=600&lines=Backend+Engineer;Java+Spring+Boot+Developer;System+Design+%26+Distributed+Systems;Building+Production+Ready+APIs;Docker+%E2%80%A2+Redis+%E2%80%A2+PostgreSQL;Open+To+Software+Engineering+Internships)](https://leetcode.com/u/dipanshubatra)
 
+
+---
+
+### 💡 What I Build
+
+- Distributed & Multi-Tenant Backend Systems
+- Secure Authentication & Authorization Systems (JWT, OAuth2, RBAC)
+- Payment-Integrated Backend Systems (Cashfree)
+- RESTful APIs with Full API Documentation (Swagger/OpenAPI)
+- Load-Tested, Production-Ready Backends
+
+---
+
+### 🔍 Keywords
+
+`Java Developer` • `Backend Engineer` • `Spring Boot Developer` • `REST API Developer` • `System Design` • `Distributed Systems` • `Multi-Tenancy` • `Docker` • `Redis` • `PostgreSQL` • `MySQL` • `Authentication` • `JWT` • `OAuth2` • `RBAC` • `Rate Limiting` • `Backend Development` • `API Development` • `Linux` • `Data Structures` • `Algorithms` • `Open Source` • `Competitive Programming`
 
 ---
 
