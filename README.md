@@ -34,20 +34,6 @@
 
 ---
 
-### 🎯 Primary Focus Areas
-
-- Backend Engineering
-- Java & Spring Boot Development
-- REST API Development
-- Authentication & Authorization (JWT, OAuth2, RBAC)
-- Redis Caching & Rate Limiting
-- Distributed Systems Design
-- Database Engineering (PostgreSQL, MySQL)
-- Docker & Containerization
-- Data Structures & Algorithms
-
----
-
 # 💻 Tech Stack & Skills
 
 <p align="center">
@@ -98,6 +84,19 @@
 
 </p>
 
+### 🎯 Primary Focus Areas
+
+- Backend Engineering
+- Java & Spring Boot Development
+- REST API Development
+- Authentication & Authorization (JWT, OAuth2, RBAC)
+- Redis Caching & Rate Limiting
+- Distributed Systems Design
+- Database Engineering (PostgreSQL, MySQL)
+- Docker & Containerization
+- Data Structures & Algorithms
+
+---
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=F7A033&center=true&vCenter=true&width=600&lines=Backend+Engineer;Java+Spring+Boot+Developer;System+Design+%26+Distributed+Systems;Building+Production+Ready+APIs;Docker+%E2%80%A2+Redis+%E2%80%A2+PostgreSQL;Open+To+Software+Engineering+Internships)](https://leetcode.com/u/dipanshubatra)
 
