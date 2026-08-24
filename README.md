@@ -1,14 +1,20 @@
 ## 🚀 Backend Engineer | Java Developer | Spring Boot Developer | 2nd Year Student
 
-I'm **Dipanshu Batra**, a **Computer Science Engineering Student** at JMIT, focused on building **scalable backend systems**, **secure REST APIs**, and **production-ready software applications**.
+## 👨‍💻 About Me
 
-I specialize in **Java**, **Spring Boot**, **System Design**, **API Development**, and **Database Engineering**, with hands-on experience building secure, multi-tenant, and distributed backend systems using modern software engineering practices.
+- 🌱 Currently deepening my knowledge in **System Design, Distributed Systems & Backend Architecture**.
+- 🐳 Working with **Docker** and containerized environments for reliable backend deployments.
+- 🧠 Actively solving **Data Structures & Algorithms**, with **150+ problems solved on LeetCode**.
+- ⚙️ Working with **Java, Spring Boot, REST APIs, JPA/Hibernate, SQL, Git/GitHub & Backend Engineering**.
+- 👥 Led **10+ development teams**, coordinating technical execution, collaboration, and project delivery.
+- 🎓 Mentored and guided **20,000+ students and developers** across technology, projects, problem-solving, and career growth.
+- 🌍 Reaching approximately **100,000+ people annually** through mentorship, communities, technical work, and content.
+- 🏗️ Passionate about designing **distributed, secure, scalable, and production-ready backend systems**.
+- 🚀 Open to **Software Engineering, Backend Engineering & Distributed Systems Internship opportunities**.
 
-- 🔭 Building **CronVault**, a distributed, multi-tenant cron job scheduler with database-level locking and RBAC
-- 🌱 Currently deepening knowledge in **System Design & Distributed Systems**
-- 🐳 Working with **Docker** for containerized backend deployments
-- 🧠 Actively solving **Data Structures & Algorithms** (250+ on LeetCode)
-- 🚀 Open to **Software Engineering & Backend Internships**
+### ⚡ Engineering Philosophy
+
+> **Building distributed, secure backend systems engineered for real-world reliability, scalability, and impact.**
 
 ---
 
@@ -28,19 +34,13 @@ I specialize in **Java**, **Spring Boot**, **System Design**, **API Development*
 
 ### 🏆 Achievements
 
-- 🥇 1st Place, Techfrontier 2025, IIIT Delhi (500+ participants)
-- 🥇 1st Place, Hackastra, NIT Durgapur
+- 🥇 1st Place, Techfrontier 2k25, IIIT Delhi 
+- 🥇 1st Place, Hackastra 2k25, NIT Durgapur
 - 🥇 1st Place, Mukand Utsav 2K26
+- 🥇 1st Place, Ideation 2K26
 - 🚀 Finalist, ByteVerse Hackathon
-- 🤖 Oracle Certified AI Foundation Associate
-- 🎓 Campus Ambassador, IIT Delhi
-
----
-
-### 🌍 Open Source Contributions
-
-- [kRamu81/MedTrack_Application](https://github.com/kRamu81/MedTrack_Application) — [94 commits](https://github.com/kRamu81/MedTrack_Application/commits?author=dipanshubatra&since=2026-06-30&until=2026-07-21)
-- [Nicode2707/MailGenie](https://github.com/Nicode2707/MailGenie) — [24 commits](https://github.com/Nicode2707/MailGenie/commits?author=dipanshubatra&since=2026-06-30&until=2026-07-21)
+- 🚀 E-Summit'25 IIT Rookie
+- 🎓 Campus Ambassador, IIT Mandi (Incubator Centre)
 
 ---
 
@@ -74,18 +74,35 @@ I specialize in **Java**, **Spring Boot**, **System Design**, **API Development*
 
 ## Programming Languages
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-005C84?style=for-the-badge)
+
+## Frontend
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ## Backend & APIs
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![Spring Security](https://img.shields.io/badge/Spring%20Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
 ![REST APIs](https://img.shields.io/badge/REST%20APIs-02569B?style=for-the-badge)
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
 ## Databases
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+## Data Science & Visualization
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge)
+
+## AI & Agentic Systems
+![Agentic AI](https://img.shields.io/badge/Agentic%20AI-6C63FF?style=for-the-badge&logo=openai&logoColor=white)
+![AI Agents](https://img.shields.io/badge/AI%20Agents-000000?style=for-the-badge&logo=openai&logoColor=white)
 
 ## DevOps & Tools
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -99,21 +116,13 @@ I specialize in **Java**, **Spring Boot**, **System Design**, **API Development*
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=F7A033&center=true&vCenter=true&width=600&lines=Backend+Engineer;Java+Spring+Boot+Developer;System+Design+%26+Distributed+Systems;Building+Production+Ready+APIs;Docker+%E2%80%A2+Redis+%E2%80%A2+PostgreSQL;Open+To+Software+Engineering+Internships)](https://leetcode.com/u/dipanshubatra)
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/dipanshubatra?theme=dark&font=Baloo%20Chettan%202&ext=contest&animation=true)
 
 ---
 
 ## 🌐 Connect with Me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dipanshubatra)
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/dipanshubatra)
-[![X](https://img.shields.io/badge/X-000000?logo=x&logoColor=white)](https://x.com/dipanshubatra_)
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akshit-rai-kakkar-75720430b/)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/AkshitRaiKakkar777)
+[![X](https://img.shields.io/badge/X-000000?logo=x&logoColor=white)](https://x.com/AkshitKakk69050)
 ---
 
-### 🔝 Top Contributed Repositories /🌍 Open Source Contributions
-
-- [kRamu81/MedTrack_Application](https://github.com/kRamu81/MedTrack_Application) — [94 commits](https://github.com/kRamu81/MedTrack_Application/commits?author=dipanshubatra&since=2026-06-30&until=2026-07-21)
-- [Nicode2707/MailGenie](https://github.com/Nicode2707/MailGenie) — [24 commits](https://github.com/Nicode2707/MailGenie/commits?author=dipanshubatra&since=2026-06-30&until=2026-07-21)
-- Contributed to **5+ other open-source repositories**
-
-*Building distributed, secure backend systems engineered for real-world reliability.*
+*Building backend infrastructure engineered to stay secure, scale seamlessly, and perform reliably.*
