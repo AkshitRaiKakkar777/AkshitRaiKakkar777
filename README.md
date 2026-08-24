@@ -1,4 +1,4 @@
-## 🚀 Sofware Engineer | Java Backend Developer | Tech Lead
+## 🚀 Backend Engineer • Java Developer • Distributed Systems Enthusiast
 
 ## 👨‍💻 About Me
 
@@ -15,6 +15,10 @@
 ### ⚡ Engineering Philosophy
 
 > **Building distributed, secure backend systems engineered for real-world reliability, scalability, and impact.**
+
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
 
 ---
 
@@ -57,13 +61,6 @@
 ### 🔍 Keywords
 
 `Java Developer` • `Backend Engineer` • `Spring Boot Developer` • `REST API Developer` • `System Design` • `Distributed Systems` • `Multi-Tenancy` • `Docker` • `Redis` • `PostgreSQL` • `MySQL` • `Authentication` • `JWT` • `OAuth2` • `RBAC` • `Rate Limiting` • `Backend Development` • `API Development` • `Linux` • `Data Structures` • `Algorithms` • `Open Source` • `Competitive Programming`
-
----
-
-<div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
-</div>
-
 
 ---
 
