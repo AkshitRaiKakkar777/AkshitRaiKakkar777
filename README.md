@@ -28,21 +28,25 @@ Proud to be a **Winner of ECSoC 2026 — Elite Coders Summer of Code** 🚀
 An incredible journey of open-source contributions, collaboration, learning, and building. 
 Grateful for every challenge, contribution, and milestone along the way. 💙
 
-### 🚀 ECSoC Contributor Journey
+### 🚀 Contributor Progression
 
 <div align="center">
 
-<img src="./assets/4.png" alt="ECSoC Contributor - Rookie Tier" width="220"/>
-<img src="./assets/2.png" alt="ECSoC Contributor - Beginner Tier" width="220"/>
-<img src="./assets/3.png" alt="ECSoC Contributor - Hustler Tier" width="220"/>
+<img src="./assets/4.png" alt="Rookie Tier" width="210"/>
+<img src="./assets/2.png" alt="Beginner Tier" width="210"/>
+<img src="./assets/3.png" alt="Hustler Tier" width="210"/>
+<img src="./assets/6.png" alt="Master Tier" width="210"/>
+<img src="./assets/5.png" alt="Elite Tier" width="210"/>
 
 <br><br>
 
-<img src="./assets/6.png" alt="ECSoC Contributor - Master Tier" width="220"/>
-<img src="./assets/5.png" alt="ECSoC Contributor - Elite Tier" width="220"/>
-<img src="./assets/Contributor.png" alt="ECSoC Contributor - Mission Accepted" width="220"/>
+### 🎖️ Mission Accepted
+
+<img src="./assets/Contributor.png" alt="ECSoC Contributor - Mission Accepted" width="420"/>
 
 </div>
+---
+
 ### 🏆 Achievements
 
 - 🥇 1st Place, Techfrontier 2k25, IIIT Delhi 
