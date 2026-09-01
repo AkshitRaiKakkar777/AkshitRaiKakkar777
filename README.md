@@ -33,11 +33,11 @@ Grateful for every challenge, contribution, and milestone along the way. 💙
 <div align="center">
 
 <p align="center">
-  <img src="./2.png" alt="Badge 2" width="100">
-  <img src="./3.png" alt="Badge 3" width="100">
-  <img src="./4.png" alt="Badge 4" width="100">
-  <img src="./5.png" alt="Badge 5" width="100">
-  <img src="./6.png" alt="Badge 6" width="100">
+  <img src="./2.png" width="120">
+  <img src="./3.png" width="120">
+  <img src="./4.png" width="120">
+  <img src="./5.png" width="120">
+  <img src="./6.png" width="120">
 </p>
 
 <br><br>
