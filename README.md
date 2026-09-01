@@ -33,13 +33,14 @@ Grateful for every challenge, contribution, and milestone along the way. 💙
 <div align="center">
 
 <p align="center">
+  <img src="./Contributor.png" width="120">
   <img src="./2.png" width="120">
   <img src="./3.png" width="120">
   <img src="./4.png" width="120">
   <img src="./5.png" width="120">
   <img src="./6.png" width="120">
 </p>
-<img src="./Contributor.png" alt="ECSoC Contributor - Mission Accepted" width="420"/>
+
 <br><br>
 </div>
 
