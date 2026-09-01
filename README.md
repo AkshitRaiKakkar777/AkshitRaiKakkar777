@@ -39,10 +39,9 @@ Grateful for every challenge, contribution, and milestone along the way. 💙
   <img src="./5.png" width="120">
   <img src="./6.png" width="120">
 </p>
-
+<img src="./Contributor.png" alt="ECSoC Contributor - Mission Accepted" width="420"/>
 <br><br>
 </div>
----
 
 ### 🏆 Achievements
 
