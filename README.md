@@ -21,7 +21,28 @@
 </div>
 
 ---
+## 🏆 ECSoC 2026 — Winner
 
+Proud to be a **Winner of ECSoC 2026 — Elite Coders Summer of Code** 🚀
+
+An incredible journey of open-source contributions, collaboration, learning, and building. 
+Grateful for every challenge, contribution, and milestone along the way. 💙
+
+### 🚀 ECSoC Contributor Journey
+
+<div align="center">
+
+<img src="./assets/4.png" alt="ECSoC Contributor - Rookie Tier" width="220"/>
+<img src="./assets/2.png" alt="ECSoC Contributor - Beginner Tier" width="220"/>
+<img src="./assets/3.png" alt="ECSoC Contributor - Hustler Tier" width="220"/>
+
+<br><br>
+
+<img src="./assets/6.png" alt="ECSoC Contributor - Master Tier" width="220"/>
+<img src="./assets/5.png" alt="ECSoC Contributor - Elite Tier" width="220"/>
+<img src="./assets/Contributor.png" alt="ECSoC Contributor - Mission Accepted" width="220"/>
+
+</div>
 ### 🏆 Achievements
 
 - 🥇 1st Place, Techfrontier 2k25, IIIT Delhi 
