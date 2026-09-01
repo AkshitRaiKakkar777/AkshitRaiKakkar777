@@ -17,7 +17,9 @@
 > **Building distributed, secure backend systems engineered for real-world reliability, scalability, and impact.**
 
 <div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+
+<img src="./2.png" width="800">
+
 </div>
 
 ---
@@ -32,11 +34,13 @@ Grateful for every challenge, contribution, and milestone along the way. 💙
 
 <div align="center">
 
-<img src="./assets/4.png" alt="Rookie Tier" width="210"/>
-<img src="./assets/2.png" alt="Beginner Tier" width="210"/>
-<img src="./assets/3.png" alt="Hustler Tier" width="210"/>
-<img src="./assets/6.png" alt="Master Tier" width="210"/>
-<img src="./assets/5.png" alt="Elite Tier" width="210"/>
+<p align="center">
+  <img src="./2.png" alt="Badge 2">
+  <img src="./3.png" alt="Badge 3">
+  <img src="./4.png" alt="Badge 4">
+  <img src="./5.png" alt="Badge 5">
+  <img src="./6.png" alt="Badge 6">
+</p>
 
 <br><br>
 
