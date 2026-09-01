@@ -21,6 +21,18 @@
 </div>
 
 ---
+
+### 🏆 Achievements
+
+- 🥇 1st Place, Techfrontier 2k25, IIIT Delhi 
+- 🥇 1st Place, Hackastra 2k25, NIT Durgapur
+- 🥇 1st Place, Mukand Utsav 2K26
+- 🥇 1st Place, Ideation 2K26
+- 🚀 Finalist, ByteVerse Hackathon
+- 🚀 E-Summit'25 IIT Rookie
+- 🎓 Campus Ambassador, IIT Mandi (Incubator Centre)
+
+---
 ## 🏆 ECSoC 2026 — Winner
 
 Proud to be a **Winner of ECSoC 2026 — Elite Coders Summer of Code** 🚀
@@ -42,18 +54,6 @@ Grateful for every challenge, contribution, and milestone along the way. 💙
 </p>
 
 </div>
-
-### 🏆 Achievements
-
-- 🥇 1st Place, Techfrontier 2k25, IIIT Delhi 
-- 🥇 1st Place, Hackastra 2k25, NIT Durgapur
-- 🥇 1st Place, Mukand Utsav 2K26
-- 🥇 1st Place, Ideation 2K26
-- 🚀 Finalist, ByteVerse Hackathon
-- 🚀 E-Summit'25 IIT Rookie
-- 🎓 Campus Ambassador, IIT Mandi (Incubator Centre)
-
----
 
 # 💻 Tech Stack & Skills
 
