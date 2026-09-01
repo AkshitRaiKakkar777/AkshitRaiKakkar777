@@ -17,9 +17,7 @@
 > **Building distributed, secure backend systems engineered for real-world reliability, scalability, and impact.**
 
 <div align="center">
-
-<img src="./2.png" width="800">
-
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
 
 ---
@@ -35,11 +33,11 @@ Grateful for every challenge, contribution, and milestone along the way. 💙
 <div align="center">
 
 <p align="center">
-  <img src="./2.png" alt="Badge 2">
-  <img src="./3.png" alt="Badge 3">
-  <img src="./4.png" alt="Badge 4">
-  <img src="./5.png" alt="Badge 5">
-  <img src="./6.png" alt="Badge 6">
+  <img src="./2.png" alt="Badge 2" width="100">
+  <img src="./3.png" alt="Badge 3" width="100">
+  <img src="./4.png" alt="Badge 4" width="100">
+  <img src="./5.png" alt="Badge 5" width="100">
+  <img src="./6.png" alt="Badge 6" width="100">
 </p>
 
 <br><br>
